@@ -1,0 +1,39 @@
+_repo: Marriage---la-mode_20383
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pegram, Fred
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '36465'
+    url: http://www.gutenberg.org/2009/agents/36465
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mary Augusta Arnold
+    - Ward, Mrs. Humphry
+    - Arnold, Mary Augusta
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: '"This story appeared in England under the title of ''Daphne.''"--Note.'
+gutenberg_issued: '2007-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+title: Marriage à la mode
+url: http://www.gutenberg.org/ebooks/20383
